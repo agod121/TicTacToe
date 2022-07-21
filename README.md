@@ -1,1 +1,1 @@
-# Version of TicTacToe created using HTML, CSS, and JavaScript
+Version of TicTacToe created using HTML, CSS, and JavaScript
